@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Evgeny Muryshkin
 
-https://github-profile-trophy.vercel.app/?username=EvgenyMuryshkin
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EvgenyMuryshkin" alt="Evgeny Muryshkin" /></a>
 
 <!--
 **EvgenyMuryshkin/EvgenyMuryshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
