@@ -9,6 +9,10 @@
 - 💬 Ask me about prototyping
 - 📫 How to reach me: evmuryshkin@gmail.com
 - ⚡ Fun fact: code generators are cool, my latest one is producing 7.2K files, 1.3M lines of code, 60MB of source files
+
+<h3 align="left">Quokka FPGA Toolkit Examples:</h3>
+
+[![Quokka FPGA Toolkit Examples](https://github-readme-stats.vercel.app/api/pin/?username=EvgenyMuryshkin&repo=qusoc)](https://github.com/EvgenyMuryshkin/qusoc)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
